@@ -11,7 +11,7 @@ I'm a full-stack software engineer who loves building scalable, efficient, and u
 - 🔭 I’m currently working on: **TAABO CRM(all in one crm including Whatsapp CRM**
 - 🌱 I’m currently learning: **[e.g., AI/ML, DevOps, Rust, etc.]**
 - 👯 I’m open to collaborating on: **Open source, startups, and freelance projects**
-- 📫 How to reach me: **[@cumarzaki2017 on X (Twitter)](https://x.com/cumarzaki2017)**
+- 📫 How to reach me: **[@Linkedin](https://www.linkedin.com/in/codewithzaki/)**
 - 🧰 Tech stack: JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Flutter, PHP, Laravel, Docker, Git, and more...
 
 ---
@@ -39,5 +39,6 @@ I'm a full-stack software engineer who loves building scalable, efficient, and u
 
 ## 🧭 Let's Connect
 
-- 🐦 [X (Twitter)](https://x.com/cumarzaki2017)
-- 🧑‍💻 GitHub: [CODEwithZAKI2](https://github.com/CODEwithZAKI2)
+-  LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithzaki/)
+-  X: [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cumarzaki2017)
+-  GitHub: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CODEwithZAKI2)
