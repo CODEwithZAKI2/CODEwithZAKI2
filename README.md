@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Mohamud Mohamed
 
-🎯 Full-Stack Software Engineer | 💻 Passionate Problem Solver | 🌍 Tech Enthusiast
+🎯 Full-Stack Software Engineer | 📊 Data Analyst | 💻 Passionate Problem Solver | 🌍 Tech Enthusiast
 
 ---
 
